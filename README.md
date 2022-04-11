@@ -1,7 +1,7 @@
 [![MasterHead](https://i.postimg.cc/y8QVxbXC/Full-stack-devel-OPER-2.gif)](https://malicodes.com/)
 <h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
 <h3 align="center">I'm an aspiring Full-Stack developer with a background in seo, ecommerce and digital marketing. My passion is to learn and grow in the software development industry by exploring new technologies, solving problems and adding value to the world one line of code at a time.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 <p align="left"> <a href="https://twitter.com/code_name_moe" target="blank"><img src="https://img.shields.io/twitter/follow/code_name_moe?logo=twitter&style=for-the-badge" alt="code_name_moe" /></a> </p>
 
