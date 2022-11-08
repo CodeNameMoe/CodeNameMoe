@@ -15,7 +15,7 @@ collaborative possibilities.</h3>
 
 <p align="left"> <a href="https://twitter.com/code_name_moe" target="blank"><img src="https://img.shields.io/twitter/follow/code_name_moe?logo=twitter&style=for-the-badge" alt="code_name_moe" /></a> </p>
 
-- 🏫 I’m currently learning **Full Stack Javascript Software Development, Software Engineering @ The School Of Code**
+- 🎓  Recent School Of Code Cohort 12 Graduate in **Full Stack Javascript Software Development, Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://malicodes.com](https://malicodes.com)
 
