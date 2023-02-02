@@ -2,10 +2,8 @@
 <h1 align="center">👋 Hi, I'm Mohamed Ali</h1>
 <h3 align="center">A friendly, professional Full-Stack Developer with a drive to continuously learn and progress in the tech industry. 
 
-After 6 years in digital marketing, SEO and ecommerce, I decided to pursue a career change and challenge myself by becoming a full-stack developer. I recently graduated from a 16-week bootcamp, where I gained hands-on experience in agile software engineering and honed my skills in creating full stack applications. 
-
-As part of a team of six, I helped to create an innovative platform that aimed to solve the problem of pet owners not having accurate symptom tracking tools for their pets, making it difficult for them to provide their veterinarian with the necessary information to make a quick diagnosis. By developing this platform, we aimed to improve the health outcomes for pets and help ease the burden on veterinarians.
-
+After 6 years in digital marketing, SEO and ecommerce, I decided to pursue a career change and challenge myself by becoming a full-stack developer. I recently graduated from a 16-week bootcamp, where I gained hands-on experience in agile software engineering and honed my skills in creating full stack applications.
+  
 I am excited to bring my extensive experience and fresh perspective to a new field, and am eager to continue learning and growing as a developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
