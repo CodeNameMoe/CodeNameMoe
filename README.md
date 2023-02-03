@@ -11,7 +11,7 @@ I am excited to bring my extensive experience and fresh perspective to a new fie
 
 - 🎓  Recent School Of Code Cohort 12 Graduate in **Full Stack Javascript Software Development, Software Engineering**
 
-- 👨‍💻 All of my projects are available at [https://malicodes.com](https://malicodes.com)
+- 👨‍💻 All of my projects are available at [https://malicodes.com/](https://malicodes.com)
 
 - 🔭 I’m currently working on a weight tracking app called Weigh.in.
 
