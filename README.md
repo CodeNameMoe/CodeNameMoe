@@ -8,7 +8,9 @@ I'm a full-stack developer currently immersed in the world of environmental impa
 
 <p align="left"> <a href="https://twitter.com/code_name_moe" target="blank"><img src="https://img.shields.io/twitter/follow/code_name_moe?logo=twitter&style=for-the-badge" alt="code_name_moe" /></a> </p>
 
-- 🎓  Recent School Of Code Cohort 12 Graduate in **Full Stack Javascript Software Development, Software Engineering**
+- 👨🏾‍💻 Currently working @ [Minviro](https://www.minviro.com/)
+  
+- 🎓 School Of Code Cohort 12 Graduate in **Full Stack Javascript Software Development, Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://malicodes.com/](https://malicodes.com)
 
