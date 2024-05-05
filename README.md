@@ -14,7 +14,7 @@ I'm a full-stack developer currently immersed in the world of environmental impa
 
 - 👨‍💻 All of my projects are available at [https://malicodes.com/](https://malicodes.com)
 
-- 🔭 I’m currently working on a weight tracking app called Weigh.in.
+- 🔭 I’m currently working on Interview Ducky 🐥, an application to help people improve their interview skills with the help of AI. 
 
 - 📝 I regularly write articles on [https://codenamemoe.hashnode.dev/](https://codenamemoe.hashnode.dev/)
 
